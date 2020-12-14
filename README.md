@@ -11,7 +11,7 @@ Matrices have a wide range of applications in programming: they're used for digi
 This project is a solution to the problem of JetBrains Academy - "Numeric Matrix Processor".
 The program performs a variety of operations on matrices including addition, multiplication, finding the determinant, and dealing with inverse matrices.
 
-##Technologies
+## Technologies
 - JDK 8
 
 ## Program Description
